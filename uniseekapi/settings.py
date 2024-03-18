@@ -89,17 +89,14 @@ AUTH_PASSWORD_VALIDATORS = [
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:3000",
     "https://monkfish-app-gc2j7.ondigitalocean.app",
-    "https://monkfish-app-gc2j7.ondigitalocean.app/uniseekapi",
 ]
 CSRF_TRUSTED_ORIGINS = [
     "http://localhost:3000",
-    "https://monkfish-app-gc2j7.ondigitalocean.app", 
-    "https://monkfish-app-gc2j7.ondigitalocean.app/uniseekapi",
+    "https://monkfish-app-gc2j7.ondigitalocean.app",
 ]
 CSRF_ALLOWED_ORIGINS = [
     "http://localhost:3000",
     "https://monkfish-app-gc2j7.ondigitalocean.app",
-    "https://monkfish-app-gc2j7.ondigitalocean.app/uniseekapi",
 ]
 
 
