@@ -1,4 +1,5 @@
 from pathlib import Path
+import os
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 
@@ -88,14 +89,17 @@ AUTH_PASSWORD_VALIDATORS = [
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:3000",
     "https://monkfish-app-gc2j7.ondigitalocean.app",
+    "https://monkfish-app-gc2j7.ondigitalocean.app/uniseekapi",
 ]
 CSRF_TRUSTED_ORIGINS = [
     "http://localhost:3000",
-    "https://monkfish-app-gc2j7.ondigitalocean.app",
+    "https://monkfish-app-gc2j7.ondigitalocean.app", 
+    "https://monkfish-app-gc2j7.ondigitalocean.app/uniseekapi",
 ]
 CSRF_ALLOWED_ORIGINS = [
     "http://localhost:3000",
     "https://monkfish-app-gc2j7.ondigitalocean.app",
+    "https://monkfish-app-gc2j7.ondigitalocean.app/uniseekapi",
 ]
 
 
@@ -137,7 +141,6 @@ USE_TZ = True
 
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/5.0/howto/static-files/
-import os
 
 STATIC_URL = "/static/"
 STATIC_ROOT = os.path.join(BASE_DIR, "staticfiles")
