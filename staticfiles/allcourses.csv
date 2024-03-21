@@ -1,0 +1,502 @@
+university,course_name,gross_tuition_fee,cost_of_living,earliest_intake,program_duration,program_type,application_deadline
+Husson University,Nursing/Healthcare Management,10368,12682,Aug-24,2,Bachelors Degree,May-24
+Lewis University - Chicago,Nursing/Healthcare Management,14760,12345,Aug-24,2,Bachelors Degree,May-24
+Webster University (WU) - St. Louis,Nursing/Healthcare Management,16800,13000,Aug-24,2,Bachelors Degree,May-24
+University of Bridgeport,Nursing/Healthcare Management,15660,10000,Aug-24,2,Bachelors Degree,May-24
+Madonna University - Livonia,Nursing/Healthcare Management,14025,19260,Aug-24,2,Bachelors Degree,May-24
+Concordia University Chicago,Nursing/Healthcare Management,12798,20880,Aug-24,2,Bachelors Degree,May-24
+Adelphi University,Nursing/Healthcare Management,27450,21000,Aug-24,2,Masters Degree,May-24
+Nazareth University,Biology,15570,15770,Aug-24,2,Masters Degree,May-24
+Roosevelt University,Biology,22764,12000,Aug-24,2,Masters Degree,May-24
+Lewis University - Chicago,Biology,15210,12345,Aug-24,2,Masters Degree,May-24
+Long Island University - Post,Biology,25017,18378,Aug-24,2,Masters Degree,May-24
+Arizona State University,Biology,37044,14718,Aug-24,2,Masters Degree,May-24
+Adelphi University,Biology,30370,21000,Aug-24,2,Masters Degree,May-24
+Lewis University - Chicago,Aviation/Aerospace,15210,12345,Aug-24,2,Masters Degree,May-24
+Auburn University,Aviation/Aerospace,36800,11800,Aug-24,2,Masters Degree,May-24
+University of South Carolina,Aviation/Aerospace,29760,18880,Aug-24,2,Masters Degree,May-24
+Arizona State University,Aviation/Aerospace,28692,14718,Aug-24,2,Masters Degree,May-24
+University of Dayton,Aviation/Aerospace,22200,20305,Aug-24,2,Masters Degree,May-24
+Auburn University,Mechanical Engineering,36800,11800,Aug-24,2,Masters Degree,May-24
+Merrimack College,Mechanical Engineering,32896,18974,Aug-24,2,Masters Degree,May-24
+University of South Carolina,Mechanical Engineering,32196,18880,Aug-24,2,Masters Degree,May-24
+University of the Pacific - Stockton,Mechanical Engineering,30027,16207,Aug-24,2,Masters Degree,May-24
+Wilkes University,Mechanical Engineering,18000,15410,Aug-24,2,Masters Degree,May-24
+Arizona State University,Mechanical Engineering,37044,14718,Aug-24,2,Masters Degree,May-24
+University of Hartford,Mechanical Engineering,17316,17208,Aug-24,2,Masters Degree,May-24
+University of Dayton,Mechanical Engineering,22700,20305,Aug-24,2,Masters Degree,May-24
+University of Bridgeport,Mechanical Engineering,14040,10000,Aug-24,2,Masters Degree,May-24
+Florida Atlantic University,Mechanical Engineering,19037,14840,Aug-24,2,Masters Degree,May-24
+University of South Carolina,Electrical Engineering,29760,18880,Aug-24,2,Masters Degree,May-24
+University of the Pacific - Stockton,Electrical Engineering,29760,16207,Aug-24,2,Masters Degree,May-24
+Wilkes University,Electrical Engineering,18000,15410,Aug-24,2,Masters Degree,May-24
+Arizona State University,Electrical Engineering,28692,14718,Aug-24,2,Masters Degree,May-24
+Lewis University - Chicago,Electrical Engineering,15210,12345,Aug-24,2,Masters Degree,May-24
+Atlantis University,Electrical Engineering,16146,20000,Aug-24,2,Masters Degree,May-24
+University of Hartford,Electrical Engineering,17208,17208,Aug-24,2,Masters Degree,May-24
+University of Dayton,Electrical Engineering,22200,20305,Aug-24,2,Masters Degree,May-24
+University of Bridgeport,Electrical Engineering,14040,10000,Aug-24,2,Masters Degree,May-24
+Florida Atlantic University,Electrical Engineering,19037,14840,Aug-24,2,Masters Degree,May-24
+Arizona State University,Computer Engineering,37044,14718,Aug-24,2,Masters Degree,May-24
+Lewis University - Chicago,Computer Engineering,15210,12345,Aug-24,2,Masters Degree,May-24
+Atlantis University,Computer Engineering,16146,20000,Aug-24,2,Masters Degree,May-24
+University of Hartford,Computer Engineering,17208,17208,Aug-24,2,Masters Degree,May-24
+University of Dayton,Computer Engineering,22200,20305,Aug-24,2,Masters Degree,May-24
+University of Bridgeport,Computer Engineering,14040,10000,Aug-24,2,Masters Degree,May-24
+Florida Atlantic University,Computer Engineering,19037,14840,Aug-24,2,Masters Degree,May-24
+Webster University (WU) - St. Louis,Artificial Intelligence,17520,13000,Feb-25,2,Masters Degree,Nov-24
+New Jersey Institute of Technology,Artificial Intelligence,35262,19320,Jan-25,2,Masters Degree,Oct-24
+Worcester Polytechnic Institute,Artificial Intelligence,24150,21600,Dec-24,2,Masters Degree,Sep-24
+Bay Atlantic University,Artificial Intelligence,22230,26640,Nov-24,2,Masters Degree,Aug-24
+University of Bridgeport,Artificial Intelligence,22060,18600,Nov-24,2,Masters Degree,Aug-24
+Saint Louis University,Artificial Intelligence,21000,13600,Oct-24,2,Masters Degree,Jul-24
+Yeshiva University,Artificial Intelligence,20910,22200,Sep-24,2,Masters Degree,Jun-24
+University of St. Thomas,Artificial Intelligence,15412,16200,Aug-24,2,Masters Degree,May-24
+Lewis University - Chicago,Artificial Intelligence,16200,12345,Aug-24,2,Masters Degree,May-24
+University of New Haven,Cybersecurity,18990,17400,Aug-24,2,Masters Degree,May-24
+Webster University (WU) - St. Louis,Cybersecurity,17520,15360,Aug-24,2,Masters Degree,May-24
+Saint Louis University,Cybersecurity,16000,13600,Aug-24,2,Masters Degree,May-24
+Saint leo University,Cybersecurity,14130,14200,Aug-24,2,Masters Degree,May-24
+University of Tampa,Cybersecurity,10982,16300,Aug-24,2,Masters Degree,May-24
+Lewis University - Chicago,Cybersecurity,16200,12345,Aug-24,2,Masters Degree,May-24
+Johnson & Wales University,Cybersecurity,15000,14100,Aug-24,2,Masters Degree,May-24
+Embry Riddle Aeronautical University,Data Science,32309,17100,Aug-24,2,Masters Degree,Jan-25
+New York Institute of Technology,Data Science,27720,21400,Aug-24,2,Masters Degree,Dec-24
+Worcester Polytechnic Institute,Data Science,24150,21600,Aug-24,2,Masters Degree,Nov-24
+Saint Louis University,Data Science,21140,13600,Aug-24,2,Masters Degree,Nov-24
+University of New Haven,Data Science,18990,17400,Aug-24,2,Masters Degree,Oct-24
+Seattle University,Data Science,17046,19300,Aug-24,2,Masters Degree,Sep-24
+University of St. Thomas,Data Science,15412,16200,Aug-24,2,Masters Degree,Aug-24
+Auburn University Alabama,Data Science,14654,16900,Aug-24,2,Masters Degree,Aug-24
+University of the Potomac,Data Science,11100,18600,Aug-24,2,Masters Degree,Jul-24
+University of Illinois Springfield,Data Science,19480,19195,Aug-24,2,Masters Degree,Jun-24
+Webster University (WU) - St. Louis,Data Science,17520,15360,Aug-24,2,Masters Degree,May-24
+Lewis University - Chicago,Data Science,16200,12345,Aug-24,2,Masters Degree,May-24
+University of the Pacific - Stockton,Computer Science,30027,16207,Aug-24,2,Masters Degree,May-24
+Western Washington University,Computer Science,25296,13838,Aug-24,2,Masters Degree,May-24
+Long Island University - Brooklyn,Computer Science,24336,18378,Aug-24,2,Masters Degree,May-24
+Cleveland State University,Computer Science,22102,12100,Aug-24,2,Masters Degree,May-24
+University of Illinois Springfield,Computer Science,20470,19195,Aug-24,2,Masters Degree,May-24
+Florida Atlantic University,Computer Science,19037,14840,Aug-24,2,Masters Degree,May-24
+Webster University (WU) - St. Louis,Computer Science,16800,13000,Aug-24,2,Masters Degree,May-24
+University of Bridgeport,Computer Science,14040,10000,Aug-24,2,Masters Degree,May-24
+University of New Haven,Computer Science,18990,17400,Aug-24,2,Masters Degree,May-24
+Felician University,Computer Science,20450,17100,Aug-24,2,Masters Degree,May-24
+Saint leo University,Computer Science,14130,14200,Aug-24,2,Masters Degree,May-24
+Saginaw Valley State University,Computer Science,13304,13800,Aug-24,2,Masters Degree,May-24
+Governors State University,Computer Science,12708,15100,Aug-24,2,Masters Degree,May-24
+Franklin University,Computer Science,11296,13800,Aug-24,2,Masters Degree,May-24
+Lewis University - Chicago,Computer Science,16200,12345,Aug-24,2,Masters Degree,May-24
+Concordia University Chicago,Computer Science,8532,20880,Aug-24,2,Masters Degree,May-24
+Adelphi University,Computer Science,29000,21000,Aug-24,2,Masters Degree,May-24
+North Park University - Chicago,Mechanical Engineering,34685,10915,Aug-24,4,Bachelors Degree,May-24
+University of Nevada - Reno (UNR),Mechanical Engineering,25304,13700,Aug-24,4,Bachelors Degree,May-24
+Western Washington University,Mechanical Engineering,26613,13838,Aug-24,4,Bachelors Degree,May-24
+University of Utah,Mechanical Engineering,31810,12634,Aug-24,4,Bachelors Degree,May-24
+University of the Incarnate Word,Mechanical Engineering,31800,13122,Aug-24,4,Bachelors Degree,May-24
+University of Jamestown,Mechanical Engineering,24000,13503,Aug-24,4,Bachelors Degree,May-24
+University of Illinois at Chicago,Mechanical Engineering,32210,20460,Aug-24,4,Bachelors Degree,May-24
+University of Dayton,Mechanical Engineering,35912,20305,Aug-24,4,Bachelors Degree,May-24
+University of Bridgeport,Mechanical Engineering,32860,10000,Aug-24,4,Bachelors Degree,May-24
+Trine University,Mechanical Engineering,34880,12000,Aug-24,4,Bachelors Degree,May-24
+Tennessee Tech University,Mechanical Engineering,25375,12000,Aug-24,4,Bachelors Degree,May-24
+St. Cloud State University,Mechanical Engineering,9858,10428,Aug-24,4,Bachelors Degree,May-24
+San Francisco State University (SFSU),Mechanical Engineering,25000,26251,Aug-24,4,Bachelors Degree,May-24
+Purdue University Northwest,Mechanical Engineering,17668,15000,Aug-24,4,Bachelors Degree,May-24
+Louisiana State University,Mechanical Engineering,30900,16600,Aug-24,4,Bachelors Degree,May-24
+East Carolina University,Mechanical Engineering,23793,18659,Aug-24,4,Bachelors Degree,May-24
+Drury University,Mechanical Engineering,33900,11000,Aug-24,4,Bachelors Degree,May-24
+Cleveland State University,Mechanical Engineering,18726,12100,Aug-24,4,Bachelors Degree,May-24
+Auburn University at Montgomery,Mechanical Engineering,32216,10860,Aug-24,4,Bachelors Degree,May-24
+Arizona State University,Mechanical Engineering,34398,14718,Aug-24,4,Bachelors Degree,May-24
+Nova Southeastern University,Mathematics,34500,11200,Aug-24,4,Bachelors Degree,May-24
+University of Nevada - Reno (UNR),Mathematics,25304,13700,Aug-24,4,Bachelors Degree,May-24
+William Jewell College,Mathematics,19320,11381,Aug-24,4,Bachelors Degree,May-24
+Western Washington University,Mathematics,26613,13838,Aug-24,4,Bachelors Degree,May-24
+Webster University (WU) - St. Louis,Mathematics,26280,13000,Aug-24,4,Bachelors Degree,May-24
+University of Utah,Mathematics,31810,12634,Aug-24,4,Bachelors Degree,May-24
+University of the Incarnate Word,Mathematics,31800,13122,Aug-24,4,Bachelors Degree,May-24
+University of South Carolina,Mathematics,35158,18880,Aug-24,4,Bachelors Degree,May-24
+University of Massachusetts Boston,Mathematics,34648,16000,Aug-24,4,Bachelors Degree,May-24
+University of Illinois at Chicago,Mathematics,30900,20460,Aug-24,4,Bachelors Degree,May-24
+University of Dayton,Mathematics,35912,20305,Aug-24,4,Bachelors Degree,May-24
+University of Bridgeport,Mathematics,32860,10000,Aug-24,4,Bachelors Degree,May-24
+Trine University,Mathematics,32330,12000,Aug-24,4,Bachelors Degree,May-24
+Tennessee Tech University,Mathematics,27970,12000,Aug-24,4,Bachelors Degree,May-24
+St. Francis College,Mathematics,26798,18000,Aug-24,4,Bachelors Degree,May-24
+St. Edward's University,Mathematics,0,13876,Aug-24,4,Bachelors Degree,May-24
+St. Cloud State University,Mathematics,9858,10428,Aug-24,4,Bachelors Degree,May-24
+San Francisco State University (SFSU),Mathematics,25000,26251,Aug-24,4,Bachelors Degree,May-24
+Roosevelt University,Mathematics,33068,12000,Aug-24,4,Bachelors Degree,May-24
+Radford University,Mathematics,20246,10566,Aug-24,4,Bachelors Degree,May-24
+Queens College of The City University of New York,Mathematics,18519,19127,Aug-24,4,Bachelors Degree,May-24
+Purdue University Northwest,Mathematics,18198,15000,Aug-24,4,Bachelors Degree,May-24
+Ohio Dominican University,Mathematics,32300,15900,Aug-24,4,Bachelors Degree,May-24
+Northeastern Illinois University,Mathematics,25857,14000,Aug-24,4,Bachelors Degree,May-24
+North Park University - Chicago,Mathematics,34685,10915,Aug-24,4,Bachelors Degree,May-24
+Millersville University,Mathematics,19320,12600,Aug-24,4,Bachelors Degree,May-24
+Madonna University - Livonia,Mathematics,26100,19260,Aug-24,4,Bachelors Degree,May-24
+Louisiana State University,Mathematics,29355,16600,Aug-24,4,Bachelors Degree,May-24
+James Madison University,Mathematics,13750,14216,Aug-24,4,Bachelors Degree,May-24
+Florida Atlantic University,Mathematics,17844,14840,Aug-24,4,Bachelors Degree,May-24
+Concordia University Chicago,Mathematics,35200,20880,Aug-24,4,Bachelors Degree,May-24
+Cleveland State University,Mathematics,17966,12100,Aug-24,4,Bachelors Degree,May-24
+Auburn University at Montgomery,Mathematics,32216,10860,Aug-24,4,Bachelors Degree,May-24
+Arizona State University,Mathematics,34398,14718,Aug-24,4,Bachelors Degree,May-24
+Massachusetts College of Pharmacy and Health Sciences,Chemistry,34700,18096,Aug-24,4,Bachelors Degree,May-24
+Nova Southeastern University,Chemistry,34500,11200,Aug-24,4,Bachelors Degree,May-24
+University of Nevada - Reno (UNR),Chemistry,25304,0,Aug-24,4,Bachelors Degree,May-24
+William Jewell College,Chemistry,19320,11381,Aug-24,4,Bachelors Degree,May-24
+Western Washington University,Chemistry,26613,13838,Aug-24,4,Bachelors Degree,May-24
+Webster University (WU) - St. Louis,Chemistry,26280,13000,Aug-24,4,Bachelors Degree,May-24
+University of Utah,Chemistry,31810,12634,Aug-24,4,Bachelors Degree,May-24
+University of the Incarnate Word,Chemistry,31800,13122,Aug-24,4,Bachelors Degree,May-24
+University of South Carolina,Chemistry,35158,18880,Aug-24,4,Bachelors Degree,May-24
+University of Massachusetts Boston,Chemistry,34648,16000,Aug-24,4,Bachelors Degree,May-24
+University of Jamestown,Chemistry,24000,13503,Aug-24,4,Bachelors Degree,May-24
+University of Illinois at Chicago,Chemistry,33000,20460,Aug-24,4,Bachelors Degree,May-24
+University of Dayton,Chemistry,35912,20305,Aug-24,4,Bachelors Degree,May-24
+Trine University,Chemistry,32330,12000,Aug-24,4,Bachelors Degree,May-24
+The University of Tulsa (TU),Chemistry,0,12816,Aug-24,4,Bachelors Degree,May-24
+Tennessee Tech University,Chemistry,27970,12000,Aug-24,4,Bachelors Degree,May-24
+St. Francis College,Chemistry,26798,18000,Aug-24,4,Bachelors Degree,May-24
+St. Edward's University,Chemistry,0,13876,Aug-24,4,Bachelors Degree,May-24
+St. Cloud State University,Chemistry,9858,10428,Aug-24,4,Bachelors Degree,May-24
+San Francisco State University (SFSU),Chemistry,25000,26251,Aug-24,4,Bachelors Degree,May-24
+Radford University,Chemistry,20246,10566,Aug-24,4,Bachelors Degree,May-24
+Queens College of The City University of New York,Chemistry,18519,19127,Aug-24,4,Bachelors Degree,May-24
+Purdue University Northwest,Chemistry,17416,15000,Aug-24,4,Bachelors Degree,May-24
+Plymouth State University,Chemistry,22810,15961,Aug-24,4,Bachelors Degree,May-24
+Ohio Dominican University,Chemistry,32300,15900,Aug-24,4,Bachelors Degree,May-24
+Northeastern Illinois University,Chemistry,0,14000,Aug-24,4,Bachelors Degree,May-24
+North Park University - Chicago,Chemistry,34685,10915,Aug-24,4,Bachelors Degree,May-24
+Millersville University,Chemistry,19320,12600,Aug-24,4,Bachelors Degree,May-24
+Madonna University - Livonia,Chemistry,26100,19260,Aug-24,4,Bachelors Degree,May-24
+Louisiana State University,Chemistry,29355,16600,Aug-24,4,Bachelors Degree,May-24
+James Madison University,Chemistry,13750,14216,Aug-24,4,Bachelors Degree,May-24
+Husson University,Chemistry,22072,12682,Aug-24,4,Bachelors Degree,May-24
+Hood College,Chemistry,21900,32000,Aug-24,4,Bachelors Degree,May-24
+Florida Atlantic University,Chemistry,17844,14840,Aug-24,4,Bachelors Degree,May-24
+East Carolina University,Chemistry,23793,18659,Aug-24,4,Bachelors Degree,May-24
+Drury University,Chemistry,33900,11000,Aug-24,4,Bachelors Degree,May-24
+Concordia University - St. Paul,Chemistry,24400,10200,Aug-24,4,Bachelors Degree,May-24
+Auburn University at Montgomery,Chemistry,18655,10860,Aug-24,4,Bachelors Degree,May-24
+Arizona State University,Chemistry,34398,14718,Aug-24,4,Bachelors Degree,May-24
+University of the Pacific - Stockton,Architectural Studies/Design,50438,16207,Aug-24,4,Bachelors Degree,May-24
+University of Hartford,Architectural Studies/Design,45500,17208,Aug-24,4,Bachelors Degree,May-24
+University of Utah,Architectural Studies/Design,31810,12634,Aug-24,4,Bachelors Degree,May-24
+University of Illinois at Chicago,Architectural Studies/Design,30900,20460,Aug-24,4,Bachelors Degree,May-24
+Miami University - Oxford,Architectural Studies/Design,38493,15080,Aug-24,4,Bachelors Degree,May-24
+Louisiana State University,Architectural Studies/Design,29355,16600,Aug-24,4,Bachelors Degree,May-24
+James Madison University,Architectural Studies/Design,13750,14216,Aug-24,4,Bachelors Degree,May-24
+Chatham University,Architectural Studies/Design,38482,14400,Aug-24,4,Bachelors Degree,May-24
+Dallas Baptist University,Finance,22878,6050,Aug-24,2,Masters Degree,May-24
+Lewis University - Chicago,Finance,15210,12345,Aug-24,2,Masters Degree,May-24
+Johnson & Wales University - Providence,Finance,15156,14100,Aug-24,2,Masters Degree,May-24
+Washington University of Science and Technology,Finance,11340,12000,Aug-24,2,Masters Degree,May-24
+Webster University (WU) - St. Louis,Finance,16800,13000,Aug-24,2,Masters Degree,May-24
+University of Massachusetts Boston,Finance,28630,16000,Aug-24,2,Masters Degree,May-24
+University of Dayton,Finance,25516,20305,Aug-24,2,Masters Degree,May-24
+University of Bridgeport,Finance,15660,10000,Aug-24,2,Masters Degree,May-24
+Ohio Dominican University,Finance,23940,15900,Aug-24,2,Masters Degree,May-24
+Concordia University Chicago,Finance,12798,20880,Aug-24,2,Masters Degree,May-24
+American University,Finance,29315,19000,Aug-24,2,Masters Degree,May-24
+University of Hartford,Business Analytics,15534,17208,Aug-24,2,Masters Degree,May-24
+Lewis University - Chicago,Business Analytics,15210,12345,Aug-24,2,Masters Degree,May-24
+Washington University of Science and Technology,Business Analytics,0,0,Aug-24,2,Masters Degree,May-24
+Husson University,Business Analytics,10368,12682,Aug-24,2,Masters Degree,May-24
+Trine University,Business Analytics,8625,12000,Aug-24,2,Masters Degree,May-24
+Webster University (WU) - St. Louis,Business Analytics,16800,13000,Aug-24,2,Masters Degree,May-24
+University of Massachusetts Boston,Business Analytics,28350,16000,Aug-24,2,Masters Degree,May-24
+University of Bridgeport,Business Analytics,15660,10000,Aug-24,2,Masters Degree,May-24
+Dallas Baptist University,Project Management,22878,6050,Aug-24,2,Masters Degree,May-24
+Saint Mary's University of Minnesota - Minneapolis,Project Management,10980,10800,Aug-24,2,Masters Degree,May-24
+Chatham University,Project Management,16452,14400,Aug-24,2,Masters Degree,May-24
+Lewis University - Chicago,Project Management,15210,12345,Aug-24,2,Masters Degree,May-24
+Johnson & Wales University - Providence,Project Management,15156,14100,Aug-24,2,Masters Degree,May-24
+Washington University of Science and Technology,Project Management,11340,12000,Aug-24,2,Masters Degree,May-24
+Webster University (WU) - St. Louis,Project Management,16800,13000,Aug-24,2,Masters Degree,May-24
+Concordia University Chicago,Project Management,12798,20880,Aug-24,2,Masters Degree,May-24
+Bay Atlantic University,Business Administration,22230,27000,Aug-24,2,Masters Degree,May-24
+Roosevelt University,Business Administration,21420,12000,Aug-24,2,Masters Degree,May-24
+Chatham University,Business Administration,15822,14400,Aug-24,2,Masters Degree,May-24
+Wilkes University,Business Administration,15600,15410,Aug-24,2,Masters Degree,May-24
+University of Hartford,Business Administration,15534,17208,Aug-24,2,Masters Degree,May-24
+Lewis University - Chicago,Business Administration,15210,12345,Aug-24,2,Masters Degree,May-24
+Johnson & Wales University - Providence,Business Administration,15156,14100,Aug-24,2,Masters Degree,May-24
+Washington University of Science and Technology,Business Administration,11340,12000,Aug-24,2,Masters Degree,May-24
+Husson University,Business Administration,10368,12682,Aug-24,2,Masters Degree,May-24
+Trine University,Business Administration,10350,12000,Aug-24,2,Masters Degree,May-24
+Atlantis University,Business Administration,10050,20000,Aug-24,2,Masters Degree,May-24
+Webster University (WU) - St. Louis,Business Administration,16800,13000,Aug-24,2,Masters Degree,May-24
+University of Dayton,Business Administration,24500,20305,Aug-24,2,Masters Degree,May-24
+University of Bridgeport,Business Administration,15660,10000,Aug-24,2,Masters Degree,May-24
+Ohio Dominican University,Business Administration,11500,15900,Aug-24,2,Masters Degree,May-24
+Madonna University - Livonia,Business Administration,22540,19260,Aug-24,2,Masters Degree,May-24
+Long Island University - Post,Business Administration,24336,18378,Aug-24,2,Masters Degree,May-24
+Concordia University Chicago,Business Administration,12798,20880,Aug-24,2,Masters Degree,May-24
+Adelphi University,Business Administration,27450,21000,Aug-24,2,Masters Degree,May-24
+Lipscomb University,Data Science,40572,14645,Aug-24,4,Bachelors Degree,May-24
+Lewis University,Data Science,37592,12345,Aug-24,4,Bachelors Degree,May-24
+Duquesne University,Data Science,43526,21360,Aug-24,4,Bachelors Degree,May-24
+Florida Atlantic University,Data Science,17844,14840,Aug-24,4,Bachelors Degree,May-24
+Tennessee Tech University,Data Science,26694,12000,Aug-24,4,Bachelors Degree,May-24
+University of Utah,Data Science,33262,12634,Aug-24,4,Bachelors Degree,May-24
+Ohio Dominican University,Data Science,33760,15900,Aug-24,4,Bachelors Degree,May-24
+Merrimack College,Data Science,45815,18974,Aug-24,4,Bachelors Degree,May-24
+Louisiana State University,Data Science,33760,16600,Aug-24,4,Bachelors Degree,May-24
+Concordia University Chicago,Data Science,35200,20880,Aug-24,4,Bachelors Degree,May-24
+Arizona State University,Data Science,34398,14718,Aug-24,4,Bachelors Degree,May-24
+Albion College,Data Science,53090,12380,Aug-24,4,Bachelors Degree,May-24
+Gonzaga University,Computer Science,50948,12790,Aug-24,4,Bachelors Degree,May-24
+American University,Computer Science,48308,19000,Aug-24,4,Bachelors Degree,May-24
+Radford University,Computer Science,25185,10566,Aug-24,4,Bachelors Degree,May-24
+University of Utah,Computer Science,36588,12634,Aug-24,4,Bachelors Degree,May-24
+St. Edward's University,Computer Science,9858,13876,Aug-24,4,Bachelors Degree,May-24
+University of South Carolina,Computer Science,35158,18880,Aug-24,4,Bachelors Degree,May-24
+Millersville University,Computer Science,19320,12600,Aug-24,4,Bachelors Degree,May-24
+The University of Tulsa (TU),Computer Science,46932,12816,Aug-24,4,Bachelors Degree,May-24
+Ohio Dominican University,Computer Science,33760,15900,Aug-24,4,Bachelors Degree,May-24
+University of Dayton,Computer Science,36918,20305,Aug-24,4,Bachelors Degree,May-24
+Miami University - Oxford,Computer Science,38493,15080,Aug-24,4,Bachelors Degree,May-24
+Cleveland State University,Computer Science,18883,12100,Aug-24,4,Bachelors Degree,May-24
+University of Jamestown,Computer Science,24000,13503,Aug-24,4,Bachelors Degree,May-24
+East Carolina University,Computer Science,23793,18659,Aug-24,4,Bachelors Degree,May-24
+Queens College of The City University of New York,Computer Science,18519,19127,Aug-24,4,Bachelors Degree,May-24
+Long Island University - Post,Computer Science,39458,18378,Aug-24,4,Bachelors Degree,May-24
+Long Island University - Brooklyn,Computer Science,39458,18378,Aug-24,4,Bachelors Degree,May-24
+Adelphi University,Computer Science,45450,21000,Aug-24,4,Bachelors Degree,May-24
+Webster University (WU) - St. Louis,Computer Science,26280,13000,Aug-24,4,Bachelors Degree,May-24
+Drury University,Computer Science,33900,11000,Aug-24,4,Bachelors Degree,May-24
+St. Cloud State University,Computer Science,9858,10428,Aug-24,4,Bachelors Degree,May-24
+Albion College,Computer Science,53090,12380,Aug-24,4,Bachelors Degree,May-24
+Madonna University - Livonia,Computer Science,27360,19260,Aug-24,4,Bachelors Degree,May-24
+Louisiana State University,Computer Science,30900,16600,Aug-24,4,Bachelors Degree,May-24
+Hope College,Computer Science,39990,14015,Aug-24,4,Bachelors Degree,May-24
+Alma College,Computer Science,47160,17166,Aug-24,4,Bachelors Degree,May-24
+University of Massachusetts Boston,Computer Science,36582,16000,Aug-24,4,Bachelors Degree,May-24
+Merrimack College,Computer Science,45815,18974,Aug-24,4,Bachelors Degree,May-24
+Purdue University Northwest,Computer Science,18198,15000,Aug-24,4,Bachelors Degree,May-24
+University of Illinois at Chicago,Computer Science,34816,20460,Aug-24,4,Bachelors Degree,May-24
+North Central College,Computer Science,44394,61651,Aug-24,4,Bachelors Degree,May-24
+Concordia University Chicago,Computer Science,35200,20880,Aug-24,4,Bachelors Degree,May-24
+Florida International University,Computer Science,23300,17640,Aug-24,4,Bachelors Degree,May-24
+University of Bridgeport,Computer Science,32860,10000,Aug-24,4,Bachelors Degree,May-24
+Sacred Heart University,Computer Science,46600,14000,Aug-24,4,Bachelors Degree,May-24
+University of the Pacific - Stockton,Computer Science,50438,16207,Aug-24,4,Bachelors Degree,May-24
+Arizona State University,Computer Science,34398,14718,Aug-24,4,Bachelors Degree,May-24
+Auburn University at Montgomery,Computer Science,18946,10860,Aug-24,4,Bachelors Degree,May-24
+Lewis University - Chicago,Computer Engineering,37592,12345,Aug-24,4,Bachelors Degree,Jan-25
+Ohio Northern University,Computer Engineering,43650,12650,Aug-24,4,Bachelors Degree,Dec-24
+Atlantis University,Computer Engineering,14408,20000,Aug-24,4,Bachelors Degree,Nov-24
+Florida Atlantic University,Computer Engineering,17844,14840,Aug-24,4,Bachelors Degree,Oct-24
+University of Hartford,Computer Engineering,51500,17208,Aug-24,4,Bachelors Degree,Sep-24
+Johnson & Wales University - Providence,Computer Engineering,39792,14100,Aug-24,4,Bachelors Degree,Aug-24
+Trine University,Computer Engineering,12000,12000,Aug-24,4,Bachelors Degree,Jul-24
+San Francisco State University (SFSU),Computer Engineering,27500,26251,Aug-24,4,Bachelors Degree,Jun-24
+University of Utah,Computer Engineering,31810,12634,Aug-24,4,Bachelors Degree,May-24
+University of the Pacific - Stockton,Computer Engineering,28328,16207,Aug-24,4,Bachelors Degree,May-24
+University of South Carolina,Computer Engineering,35158,18880,Aug-24,4,Bachelors Degree,May-24
+University of Massachusetts Boston,Computer Engineering,36758,16000,Aug-24,4,Bachelors Degree,May-24
+University of Illinois at Chicago,Computer Engineering,31020,20460,Aug-24,4,Bachelors Degree,May-24
+University of Dayton,Computer Engineering,42900,20305,Aug-24,4,Bachelors Degree,May-24
+University of Bridgeport,Computer Engineering,32860,10000,Aug-24,4,Bachelors Degree,May-24
+The University of Tulsa (TU),Computer Engineering,46932,12816,Aug-24,4,Bachelors Degree,May-24
+St. Cloud State University,Computer Engineering,9858,10428,Aug-24,4,Bachelors Degree,May-24
+Sacred Heart University,Computer Engineering,46600,14000,Aug-24,4,Bachelors Degree,May-24
+Purdue University Northwest,Computer Engineering,18198,15000,Aug-24,4,Bachelors Degree,May-24
+Miami University - Oxford,Computer Engineering,38493,15080,Aug-24,4,Bachelors Degree,May-24
+Merrimack College,Computer Engineering,45815,18974,Aug-24,4,Bachelors Degree,May-24
+Louisiana State University,Computer Engineering,30500,16600,Aug-24,4,Bachelors Degree,May-24
+Hope College,Computer Engineering,39990,14015,Aug-24,4,Bachelors Degree,May-24
+Gonzaga University,Computer Engineering,39058,12790,Aug-24,4,Bachelors Degree,May-24
+Florida International University,Computer Engineering,23300,17640,Aug-24,4,Bachelors Degree,May-24
+Auburn University at Montgomery,Computer Engineering,41340,10860,Aug-24,4,Bachelors Degree,May-24
+Nazareth University,Nursing,38790,15770,Aug-24,4,Bachelors Degree,May-24
+Augustana University,Nursing,38150,8862,Aug-24,4,Bachelors Degree,May-24
+Brenau University - Gainesville,Nursing,31000,16375,Aug-24,4,Bachelors Degree,May-24
+William Jewell College,Nursing,19320,11381,Aug-24,4,Bachelors Degree,May-24
+Wilkes University,Nursing,39134,15410,Aug-24,4,Bachelors Degree,May-24
+University of Utah,Nursing,33262,12634,Aug-24,4,Bachelors Degree,May-24
+University of the Incarnate Word,Nursing,31800,13122,Aug-24,4,Bachelors Degree,May-24
+University of South Carolina,Nursing,36158,18880,Aug-24,4,Bachelors Degree,May-24
+University of Jamestown,Nursing,24000,13503,Aug-24,4,Bachelors Degree,May-24
+University of Bridgeport,Nursing,37590,10000,Aug-24,4,Bachelors Degree,May-24
+The University of Tulsa (TU),Nursing,46932,12816,Aug-24,4,Bachelors Degree,May-24
+Tennessee Tech University,Nursing,27786,12000,Aug-24,4,Bachelors Degree,May-24
+St. Cloud State University,Nursing,9858,10428,Aug-24,4,Bachelors Degree,May-24
+Saint Martin's University,Nursing,43600,13390,Aug-24,4,Bachelors Degree,May-24
+North Park University - Chicago,Nursing,34685,10915,Aug-24,4,Bachelors Degree,May-24
+Madonna University - Livonia,Nursing,26100,19260,Aug-24,4,Bachelors Degree,May-24
+Long Island University - Post,Nursing,39458,18378,Aug-24,4,Bachelors Degree,May-24
+Long Island University - Brooklyn,Nursing,39458,18378,Aug-24,4,Bachelors Degree,May-24
+Lipscomb University,Nursing,40572,14645,Aug-24,4,Bachelors Degree,May-24
+Husson University,Nursing,22072,12682,Aug-24,4,Bachelors Degree,May-24
+Hope College,Nursing,39990,14015,Aug-24,4,Bachelors Degree,May-24
+Hood College,Nursing,21900,32000,Aug-24,4,Bachelors Degree,May-24
+East Carolina University,Nursing,23793,18659,Aug-24,4,Bachelors Degree,May-24
+Duquesne University,Nursing,47146,21360,Aug-24,4,Bachelors Degree,May-24
+Drury University,Nursing,33900,11000,Aug-24,4,Bachelors Degree,May-24
+Cleveland State University,Nursing,18883,12100,Aug-24,4,Bachelors Degree,May-24
+Auburn University at Montgomery,Nursing,18946,10860,Aug-24,4,Bachelors Degree,May-24
+Arizona State University,Nursing,34398,14718,Aug-24,4,Bachelors Degree,May-24
+Alma College,Nursing,47160,17166,Aug-24,4,Bachelors Degree,May-24
+Wilkes University,Electrical Engineering,36888,15410,Aug-24,4,Bachelors Degree,May-24
+University of the Incarnate Word,Electrical Engineering,31800,13122,Aug-24,4,Bachelors Degree,May-24
+University of South Carolina,Electrical Engineering,36158,18880,Aug-24,4,Bachelors Degree,May-24
+University of Massachusetts Boston,Electrical Engineering,36581,16000,Aug-24,4,Bachelors Degree,May-24
+University of Dayton,Electrical Engineering,35912,20305,Aug-24,4,Bachelors Degree,May-24
+University of Bridgeport,Electrical Engineering,32860,10000,Aug-24,4,Bachelors Degree,May-24
+Trine University,Electrical Engineering,34880,12000,Aug-24,4,Bachelors Degree,May-24
+The University of Tulsa (TU),Electrical Engineering,46932,12816,Aug-24,4,Bachelors Degree,May-24
+Tennessee Tech University,Electrical Engineering,27970,12000,Aug-24,4,Bachelors Degree,May-24
+St. Cloud State University,Electrical Engineering,9858,10428,Aug-24,4,Bachelors Degree,May-24
+Sacred Heart University,Electrical Engineering,46600,14000,Aug-24,4,Bachelors Degree,May-24
+Purdue University Northwest,Electrical Engineering,17416,15000,Aug-24,4,Bachelors Degree,May-24
+Ohio Northern University,Electrical Engineering,43650,12650,Aug-24,4,Bachelors Degree,May-24
+Miami University - Oxford,Electrical Engineering,38493,15080,Aug-24,4,Bachelors Degree,May-24
+Louisiana State University,Electrical Engineering,29355,16600,Aug-24,4,Bachelors Degree,May-24
+Lipscomb University,Electrical Engineering,40572,14645,Aug-24,4,Bachelors Degree,May-24
+Hope College,Electrical Engineering,39990,14015,Aug-24,4,Bachelors Degree,May-24
+Gonzaga University,Electrical Engineering,39058,12790,Aug-24,4,Bachelors Degree,May-24
+East Carolina University,Electrical Engineering,23793,18659,Aug-24,4,Bachelors Degree,May-24
+Drury University,Electrical Engineering,33900,11000,Aug-24,4,Bachelors Degree,May-24
+Cleveland State University,Electrical Engineering,18104,12100,Aug-24,4,Bachelors Degree,May-24
+Arizona State University,Electrical Engineering,32870,14718,Aug-24,4,Bachelors Degree,May-24
+Hood College,Biology,21900,32000,Aug-24,4,Bachelors Degree,May-24
+Plymouth State University,Biology,22810,15961,Aug-24,4,Bachelors Degree,May-24
+Husson University,Biology,22072,12682,Aug-24,4,Bachelors Degree,May-24
+Concordia University - St. Paul,Biology,24400,10200,Aug-24,4,Bachelors Degree,May-24
+Northeastern Illinois University,Biology,25857,14000,Aug-24,4,Bachelors Degree,May-24
+Radford University,Biology,23624,10566,Aug-24,4,Bachelors Degree,May-24
+Roosevelt University,Biology,33068,12000,Aug-24,4,Bachelors Degree,May-24
+North Park University - Chicago,Biology,34685,10915,Aug-24,4,Bachelors Degree,May-24
+Duquesne University,Biology,43526,21360,Aug-24,4,Bachelors Degree,May-24
+Saint Martin's University,Biology,43600,13390,Aug-24,4,Bachelors Degree,May-24
+Dallas Baptist University,Biology,36510,6050,Aug-24,4,Bachelors Degree,May-24
+Chatham University,Biology,38482,14400,Aug-24,4,Bachelors Degree,May-24
+Lees-McRae College,Biology,28790,12200,Aug-24,4,Bachelors Degree,May-24
+Western Washington University,Biology,26613,13838,Aug-24,4,Bachelors Degree,May-24
+Marymount University,Biology,37751,16147,Aug-24,4,Bachelors Degree,May-24
+William Jewell College,Biology,19320,11381,Aug-24,4,Bachelors Degree,May-24
+Wilkes University,Biology,40308,15410,Aug-24,4,Bachelors Degree,May-24
+Webster University (WU) - St. Louis,Biology,26280,13000,Aug-24,4,Bachelors Degree,May-24
+University of Utah,Biology,33262,12634,Aug-24,4,Bachelors Degree,May-24
+University of the Incarnate Word,Biology,31500,13122,Aug-24,4,Bachelors Degree,May-24
+University of South Carolina,Biology,36158,18880,Aug-24,4,Bachelors Degree,May-24
+University of Massachusetts Boston,Biology,36582,16000,Aug-24,4,Bachelors Degree,May-24
+University of Jamestown,Biology,24000,13503,Aug-24,4,Bachelors Degree,May-24
+University of Illinois at Chicago,Biology,33000,20460,Aug-24,4,Bachelors Degree,May-24
+University of Dayton,Biology,35912,20305,Aug-24,4,Bachelors Degree,May-24
+University of Bridgeport,Biology,32860,10000,Aug-24,4,Bachelors Degree,May-24
+Trine University,Biology,35000,12000,Aug-24,4,Bachelors Degree,May-24
+The University of Tulsa (TU),Biology,46932,12816,Aug-24,4,Bachelors Degree,May-24
+Tennessee Tech University,Biology,27970,12000,Aug-24,4,Bachelors Degree,May-24
+St. Francis College,Biology,27460,18000,Aug-24,4,Bachelors Degree,May-24
+St. Edward's University,Biology,49886,13876,Aug-24,4,Bachelors Degree,May-24
+St. Cloud State University,Biology,9858,10428,Aug-24,4,Bachelors Degree,May-24
+San Francisco State University (SFSU),Biology,27500,26251,Aug-24,4,Bachelors Degree,May-24
+Sacred Heart University,Biology,46600,14000,Aug-24,4,Bachelors Degree,May-24
+Queens College of The City University of New York,Biology,18519,19127,Aug-24,4,Bachelors Degree,May-24
+Purdue University Northwest,Biology,18198,15000,Aug-24,4,Bachelors Degree,May-24
+Ohio Northern University,Biology,38250,12650,Aug-24,4,Bachelors Degree,May-24
+Ohio Dominican University,Biology,32300,15900,Aug-24,4,Bachelors Degree,May-24
+Millersville University,Biology,19320,12600,Aug-24,4,Bachelors Degree,May-24
+Miami University - Oxford,Biology,38493,15080,Aug-24,4,Bachelors Degree,May-24
+Madonna University - Livonia,Biology,26100,19260,Aug-24,4,Bachelors Degree,May-24
+Louisiana State University,Biology,29355,16600,Aug-24,4,Bachelors Degree,May-24
+Long Island University - Post,Biology,39458,18378,Aug-24,4,Bachelors Degree,May-24
+Long Island University - Brooklyn,Biology,39458,18378,Aug-24,4,Bachelors Degree,May-24
+Lipscomb University,Biology,40572,14645,Aug-24,4,Bachelors Degree,May-24
+James Madison University,Biology,13750,14216,Aug-24,4,Bachelors Degree,May-24
+Hope College,Biology,39990,14015,Aug-24,4,Bachelors Degree,May-24
+Gonzaga University,Biology,48990,12790,Aug-24,4,Bachelors Degree,May-24
+Florida Atlantic University,Biology,17844,14840,Aug-24,4,Bachelors Degree,May-24
+East Carolina University,Biology,23793,18659,Aug-24,4,Bachelors Degree,May-24
+Drury University,Biology,33900,11000,Aug-24,4,Bachelors Degree,May-24
+Concordia University Chicago,Biology,35200,20880,Aug-24,4,Bachelors Degree,May-24
+Cleveland State University,Biology,20270,12100,Aug-24,4,Bachelors Degree,May-24
+Auburn University at Montgomery,Biology,18946,10860,Aug-24,4,Bachelors Degree,May-24
+Arizona State University,Biology,11324,14718,Aug-24,4,Bachelors Degree,May-24
+American University,Biology,54354,19000,Aug-24,4,Bachelors Degree,May-24
+Alma College,Biology,47160,17166,Aug-24,4,Bachelors Degree,May-24
+Adelphi University,Biology,43262,21000,Aug-24,4,Bachelors Degree,May-24
+Augustana University,Aerospace Engineering,38150,8862,Aug-24,4,Bachelors Degree,May-24
+University of South Carolina,Aerospace Engineering,36158,18880,Aug-24,4,Bachelors Degree,May-24
+Lewis University - Chicago,Aerospace Engineering,37592,12345,Aug-24,4,Bachelors Degree,May-24
+Arizona State University,Aerospace Engineering,34398,14718,Aug-24,4,Bachelors Degree,May-24
+Auburn University,Aerospace Engineering,35100,11800,Aug-24,4,Bachelors Degree,May-24
+Pacific Lutheran University,Civil Engineering,49472,12448,Aug-24,4,Bachelors Degree,May-24
+William Jewell College,Civil Engineering,19320,11381,Aug-24,4,Bachelors Degree,May-24
+Florida Atlantic University,Civil Engineering,17844,14840,Aug-24,4,Bachelors Degree,May-24
+University of Hartford,Civil Engineering,51500,17208,Aug-24,4,Bachelors Degree,May-24
+Ohio Northern University,Civil Engineering,38250,12650,Aug-24,4,Bachelors Degree,May-24
+San Francisco State University (SFSU),Civil Engineering,25000,26251,Aug-24,4,Bachelors Degree,May-24
+Lipscomb University,Civil Engineering,40572,14645,Aug-24,4,Bachelors Degree,May-24
+James Madison University,Civil Engineering,25723,14216,Aug-24,4,Bachelors Degree,May-24
+Tennessee Tech University,Civil Engineering,27970,12000,Aug-24,4,Bachelors Degree,May-24
+University of Utah,Civil Engineering,33262,12634,Aug-24,4,Bachelors Degree,May-24
+University of the Pacific - Stockton,Civil Engineering,58005,16207,Aug-24,4,Bachelors Degree,May-24
+University of South Carolina,Civil Engineering,40977,18880,Aug-24,4,Bachelors Degree,May-24
+University of Jamestown,Civil Engineering,24000,13503,Aug-24,4,Bachelors Degree,May-24
+University of Illinois at Chicago,Civil Engineering,33000,20460,Aug-24,4,Bachelors Degree,May-24
+University of Dayton,Civil Engineering,42900,20305,Aug-24,4,Bachelors Degree,May-24
+Purdue University Northwest,Civil Engineering,17668,15000,Aug-24,4,Bachelors Degree,May-24
+Merrimack College,Civil Engineering,45815,18974,Aug-24,4,Bachelors Degree,May-24
+Louisiana State University,Civil Engineering,30900,16600,Aug-24,4,Bachelors Degree,May-24
+Hope College,Civil Engineering,39990,14015,Aug-24,4,Bachelors Degree,May-24
+Gonzaga University,Civil Engineering,14645,12790,Aug-24,4,Bachelors Degree,May-24
+Auburn University at Montgomery,Civil Engineering,41340,10860,Aug-24,4,Bachelors Degree,May-24
+Husson University,Business Administration,22072,12682,Aug-24,4,Bachelors Degree,May-24
+Lycoming College,Business Administration,48771,16277,Aug-24,4,Bachelors Degree,May-24
+Whittier College,Business Administration,48924,14878,Aug-24,4,Bachelors Degree,May-24
+Bay Atlantic University,Business Administration,19050,27000,Aug-24,4,Bachelors Degree,May-24
+Western Washington University,Business Administration,26613,13838,Aug-24,4,Bachelors Degree,May-24
+University of St. Thomas (Minnesota),Business Administration,50788,12619,Aug-24,4,Bachelors Degree,May-24
+St. Francis College,Business Administration,27571,18000,Aug-24,4,Bachelors Degree,May-24
+University of Utah,Business Administration,31810,12634,Aug-24,4,Bachelors Degree,May-24
+University of Massachusetts Boston,Business Administration,37140,16000,Aug-24,4,Bachelors Degree,May-24
+University of Bridgeport,Business Administration,32860,10000,Aug-24,4,Bachelors Degree,May-24
+San Francisco State University (SFSU),Business Administration,30000,26251,Aug-24,4,Bachelors Degree,May-24
+Pacific Lutheran University,Business Administration,49472,12448,Aug-24,4,Bachelors Degree,May-24
+Long Island University - Brooklyn,Business Administration,39458,18378,Aug-24,4,Bachelors Degree,May-24
+Hope College,Business Administration,39990,14015,Aug-24,4,Bachelors Degree,May-24
+Cleveland State University,Business Administration,18883,12100,Aug-24,4,Bachelors Degree,May-24
+Auburn University at Montgomery,Business Administration,32216,10860,Aug-24,4,Bachelors Degree,May-24
+Arizona State University,Business Administration,34398,14718,Aug-24,4,Bachelors Degree,May-24
+Merrimack College,Physics,45815,18974,Aug-24,4,Bachelors Degree,May-24
+University of Hartford,Physics,45500,17208,Aug-24,4,Bachelors Degree,May-24
+Augustana University,Physics,38150,8862,Aug-24,4,Bachelors Degree,May-24
+William Jewell College,Physics,19320,11381,Aug-24,4,Bachelors Degree,May-24
+Wilkes University,Physics,36888,15410,Aug-24,4,Bachelors Degree,May-24
+Webster University (WU) - St. Louis,Physics,26613,13000,Aug-24,4,Bachelors Degree,May-24
+University of Utah,Physics,31810,12634,Aug-24,4,Bachelors Degree,May-24
+University of South Carolina,Physics,35158,18880,Aug-24,4,Bachelors Degree,May-24
+University of Massachusetts Boston,Physics,34648,16000,Aug-24,4,Bachelors Degree,May-24
+University of Illinois at Chicago,Physics,30900,20460,Aug-24,4,Bachelors Degree,May-24
+University of Dayton,Physics,35912,20305,Aug-24,4,Bachelors Degree,May-24
+The University of Tulsa (TU),Physics,46932,12816,Aug-24,4,Bachelors Degree,May-24
+Tennessee Tech University,Physics,27970,12000,Aug-24,4,Bachelors Degree,May-24
+St. Cloud State University,Physics,9858,10428,Aug-24,4,Bachelors Degree,May-24
+San Francisco State University (SFSU),Physics,25000,26251,Aug-24,4,Bachelors Degree,May-24
+Radford University,Physics,20246,10566,Aug-24,4,Bachelors Degree,May-24
+Queens College of The City University of New York,Physics,18519,19127,Aug-24,4,Bachelors Degree,May-24
+Purdue University Northwest,Physics,17416,15000,Aug-24,4,Bachelors Degree,May-24
+Ohio Northern University,Physics,38250,12650,Aug-24,4,Bachelors Degree,May-24
+Northeastern Illinois University,Physics,25857,14000,Aug-24,4,Bachelors Degree,May-24
+Millersville University,Physics,19320,12600,Aug-24,4,Bachelors Degree,May-24
+Miami University - Oxford,Physics,38493,15080,Aug-24,4,Bachelors Degree,May-24
+Madonna University - Livonia,Physics,26100,19260,Aug-24,4,Bachelors Degree,May-24
+Louisiana State University,Physics,29355,16600,Aug-24,4,Bachelors Degree,May-24
+Lipscomb University,Physics,40572,14645,Aug-24,4,Bachelors Degree,May-24
+Lewis University - Chicago,Physics,37592,12345,Aug-24,4,Bachelors Degree,May-24
+James Madison University,Physics,13750,14216,Aug-24,4,Bachelors Degree,May-24
+Hope College,Physics,39990,14015,Aug-24,4,Bachelors Degree,May-24
+Gonzaga University,Physics,39058,12790,Aug-24,4,Bachelors Degree,May-24
+Florida Atlantic University,Physics,17844,14840,Aug-24,4,Bachelors Degree,May-24
+East Carolina University,Physics,23793,18659,Aug-24,4,Bachelors Degree,May-24
+Duquesne University,Physics,43526,21360,Aug-24,4,Bachelors Degree,May-24
+Cleveland State University,Physics,17966,12100,Aug-24,4,Bachelors Degree,May-24
+Auburn University at Montgomery,Physics,32216,10860,Aug-24,4,Bachelors Degree,May-24
+Arizona State University,Physics,34398,14718,Aug-24,4,Bachelors Degree,May-24
+Adelphi University,Physics,42210,21000,Aug-24,4,Bachelors Degree,May-24

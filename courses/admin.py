@@ -1,26 +1,34 @@
 from django.contrib import admin
-from courses.models import Course
+from courses.models import Course, University
 from import_export.admin import ImportExportModelAdmin
+
+# from .utils import import_courses_from_csv
 
 
 class CourseAdmin(ImportExportModelAdmin):
     list_display = [
-        "university_name",
+        "university",
         "course_name",
         "gross_tuition_fee",
         "earliest_intake",
         "program_duration",
         "program_type",
-        "state",
         "application_deadline",
     ]
     list_filter = [
-        "university_name",
+        "university",
         "program_type",
-        "state",
         "earliest_intake",
         "course_name",
     ]
 
 
+class UniversityAdmin(ImportExportModelAdmin):
+    list_display = ["name", "website", "popular_courses", "address", "about"]
+    list_filter = ["name", "website", "popular_courses", "address", "about"]
+
+
 admin.site.register(Course, CourseAdmin)
+admin.site.register(University, UniversityAdmin)
+
+# import_courses_from_csv("staticfiles/allcourses.csv")
