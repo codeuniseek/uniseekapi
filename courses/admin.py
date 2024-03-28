@@ -14,6 +14,7 @@ class CourseAdmin(ImportExportModelAdmin):
         "program_duration",
         "program_type",
         "application_deadline",
+        "range_tution_fee",
     ]
     list_filter = [
         "university",
@@ -24,11 +25,25 @@ class CourseAdmin(ImportExportModelAdmin):
 
 
 class UniversityAdmin(ImportExportModelAdmin):
-    list_display = ["name", "website", "popular_courses", "address", "about"]
-    list_filter = ["name", "website", "popular_courses", "address", "about"]
+    list_display = [
+        "name",
+        "website",
+        "popular_courses",
+        "address",
+        "about",
+        "country",
+    ]
+    list_filter = [
+        "name",
+        "website",
+        "popular_courses",
+        "address",
+        "about",
+        "country",
+    ]
 
 
 admin.site.register(Course, CourseAdmin)
 admin.site.register(University, UniversityAdmin)
 
-# import_courses_from_csv("staticfiles/allcourses.csv")
+# import_courses_from_csv("staticfiles/canada.csv")
